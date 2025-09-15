@@ -1,4 +1,4 @@
- Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Thanos</h1>
 <h3 align="center">Junior Software Engineer</h3>
