@@ -20,7 +20,7 @@ The project leverages **modern architectural patterns and frameworks** to ensure
 
 This application demonstrates expertise in combining **.NET backend services** with a **modern frontend stack**, delivering a seamless and user-friendly experience.  
 
-👉 You can explore the project here: [GitHub Repository](https://github.com/YOUR-USERNAME/YOUR-REPO)  
+👉 You can explore the project here: [GitHub Repository](https://github.com/ThanosKoundouropoulos/DietTrackerWebApp)  
 
 ---
 
