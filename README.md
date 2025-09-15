@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Thanos</h1>
 <h3 align="center">Junior Software Engineer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">I graduated at the University of Peloponnese, Department of Informatics and Telecommunications, with main focus on programming. I enjoy working with .NET the most and I am eager to gain experience in the field. 
+ </h3>
 <p align="left">
 </p>
 
